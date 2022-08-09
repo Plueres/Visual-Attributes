@@ -1,0 +1,22 @@
+{
+	"format_version" : "1.10.0",
+	"animation_controllers" : {
+		"controller.animation.spider.move" : {
+			"initial_state" : "default",
+			"states" : {
+				"default" : {
+					"animations" : [
+						"default_leg_pose",
+						{
+							"walk" : "query.modified_move_speed"
+						},
+						{
+							"walk_on_wall": "query.is_wall_climbing"
+						},
+						"look_at_target"
+					]
+				}
+			}
+		}
+	}
+}
