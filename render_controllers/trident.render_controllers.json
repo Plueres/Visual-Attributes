@@ -10,7 +10,7 @@
             ],
             "textures": [
                 "Texture.default",
-                "query.is_in_water_or_rain ? Texture.overlay : Texture.enchanted"
+                "query.is_in_contact_with_water ? Texture.electric : Texture.enchanted"
             ]
         }
     }

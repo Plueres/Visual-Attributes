@@ -1,0 +1,68 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.chicken": {
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        },
+        {
+          "leg*": "Material.legs"
+        }
+      ],
+      "textures": [
+        "query.is_interested ? texture.interested : texture.default"
+      ]
+    },
+    "controller.render.cow": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "(query.is_in_love ? Texture.in_love : (query.is_leashed ? Texture.leashed : Texture.default))"
+      ]
+    },
+    "controller.render.pig": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.saddled"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.is_saddled]"
+      ]
+    },
+    "controller.render.sheep": {
+      "arrays": {
+        "geometries": {
+          "Array.geos": [
+            "Geometry.default",
+            "Geometry.sheared"
+          ]
+        }
+      },
+      "geometry": "Array.geos[query.is_sheared]",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default"
+      ]
+    }
+  }
+}
