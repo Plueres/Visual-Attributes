@@ -7,7 +7,8 @@
       "textures": {
         "default": "textures/entity/wolf/wolf",
         "angry": "textures/entity/wolf/wolf_angry",
-        "tame": "textures/entity/wolf/wolf_tame"
+        "tame": "textures/entity/wolf/wolf_tame",
+        "mars": "textures/entity/wolf/mars_tame"
       },
       "geometry": {
         "default": "geometry.wolf"
