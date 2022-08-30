@@ -2,6 +2,26 @@
 	"format_version": "1.8.0",
 	"render_controllers": {
 		"controller.render.allay": {
+			"arrays": {
+				"textures": {
+					"Array.Skins": [
+						"Texture.default",
+						"Texture.purple",
+						"Texture.yellow",
+						"Texture.pink",
+						"Texture.red",
+						"Texture.green"
+					],
+					"Array.sadSkins": [
+						"Texture.default_sad",
+						"Texture.purple_sad",
+						"Texture.yellow_sad",
+						"Texture.pink_sad",
+						"Texture.red_sad",
+						"Texture.green_sad"
+					]
+				}
+			},
 			"geometry": "Geometry.default",
 			"materials": [
 				{
@@ -9,7 +29,7 @@
 				}
 			],
 			"textures": [
-				"!query.is_item_equipped ? Texture.holding_item : Texture.default"
+				"!query.is_item_equipped ? Array.sadSkins[v.random] : Array.Skins[v.random]"
 			],
 			"ignore_lighting": true
 		}

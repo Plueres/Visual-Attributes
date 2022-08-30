@@ -1,5 +1,5 @@
 {
-	"format_version": "1.8.0",
+	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
 			"identifier": "minecraft:allay",
@@ -8,7 +8,18 @@
 			},
 			"textures": {
 				"default": "textures/entity/allay/allay",
-				"holding_item": "textures/entity/allay/holding_item"
+				"purple": "textures/entity/allay/allay_m",
+				"yellow": "textures/entity/allay/allay_y",
+				"pink": "textures/entity/allay/allay_p",
+				"red": "textures/entity/allay/allay_r",
+				"green": "textures/entity/allay/allay_g",
+				
+				"default_sad": "textures/entity/allay/allay_sad",
+				"purple_sad": "textures/entity/allay/allay_m_sad",
+				"yellow_sad": "textures/entity/allay/allay_y_sad",
+				"pink_sad": "textures/entity/allay/allay_p_sad",
+				"red_sad": "textures/entity/allay/allay_r_sad",
+				"green_sad": "textures/entity/allay/allay_g_sad"
 			},
 			"geometry": {
 				"default": "geometry.allay"
@@ -16,21 +27,18 @@
 			"scripts": {
 				"pre_animation": [
 					"variable.holding_trident = query.is_item_name_any('slot.weapon.mainhand', 'minecraft:trident');"
+				],
+				"initialize": [
+					"v.random = Math.random(0,6);"
 				]
 			},
 			"animations": {
 				"idle": "animation.allay.idle",
 				"fly": "animation.allay.fly",
-				"hold_item": "animation.allay.hold_item"
+				"hold_item": "animation.allay.hold_item",
+				"holding": "controller.animation.allay.holding",
+				"general": "controller.animation.allay.general"
 			},
-			"animation_controllers": [
-				{
-					"general": "controller.animation.allay.general"
-				},
-				{
-					"holding": "controller.animation.allay.holding"
-				}
-			],
 			"render_controllers": [
 				"controller.render.allay"
 			],
