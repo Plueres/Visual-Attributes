@@ -9,15 +9,11 @@
       },
       "textures": {
         "default": "textures/entity/zombie/zombie",
-        "human": "textures/entity/steve",
-        "snowy": "textures/entity/snow_golem"
+        "drowned": "textures/entity/zombie/drowning",
+        "frozen": "textures/entity/zombie/frozen"
       },
       "geometry": {
         "default": "geometry.zombie.v1.8"
-      },
-      "spawn_egg": {
-        "texture": "spawn_egg",
-        "texture_index": 12
       },
       "scripts": {
         "pre_animation": [

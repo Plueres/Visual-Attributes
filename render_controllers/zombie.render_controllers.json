@@ -9,7 +9,7 @@
         }
       ],
       "textures": [
-        "query.is_in_water_or_rain ? Texture.human : (query.is_shaking ? Texture.snowy : Texture.default)"
+        "(query.is_in_water && query.is_shaking) ? Texture.drowned : (query.is_shaking ? Texture.frozen : Texture.default)"
       ]
     }
   }
