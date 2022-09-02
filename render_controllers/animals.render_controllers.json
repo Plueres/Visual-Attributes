@@ -23,7 +23,7 @@
         }
       ],
       "textures": [
-        "(query.is_in_love ? Texture.in_love : (query.is_leashed ? Texture.leashed : Texture.default))"
+        "query.is_in_love ? Texture.in_love : Texture.default"
       ]
     },
     "controller.render.pig": {
