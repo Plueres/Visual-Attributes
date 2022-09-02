@@ -16,7 +16,7 @@
           "Reins*": "query.is_saddled && query.has_rider"
         },
         {
-          "Bag*": true
+          "Bag*": false
         },
         {
           "MuleEar*": false

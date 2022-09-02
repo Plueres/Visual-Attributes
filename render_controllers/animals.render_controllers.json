@@ -12,7 +12,7 @@
         }
       ],
       "textures": [
-        "query.is_interested ? texture.interested : texture.default"
+        "query.is_in_love ? Texture.in_love : texture.default"
       ]
     },
     "controller.render.cow": {
@@ -32,6 +32,10 @@
           "Array.skins": [
             "Texture.default",
             "Texture.saddled"
+          ],
+          "Array.loved": [
+            "Texture.in_love",
+            "Texture.in_love_saddled"
           ]
         }
       },
@@ -42,7 +46,7 @@
         }
       ],
       "textures": [
-        "Array.skins[query.is_saddled]"
+        "query.is_in_love ? Array.loved[query.is_saddled] : Array.skins[query.is_saddled]"
       ]
     },
     "controller.render.sheep": {
@@ -61,7 +65,7 @@
         }
       ],
       "textures": [
-        "Texture.default"
+        "query.is_in_love ? Texture.in_love : Texture.default"
       ]
     }
   }
