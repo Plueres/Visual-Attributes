@@ -1,0 +1,24 @@
+name: Compressed Files
+
+on: 
+  push:
+    branches:
+    - main
+
+jobs:
+  Compressing-Files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Archive code coverage results
+        uses: actions/upload-artifact@v3
+        with:
+          name: Visual Attributes
+          path: |
+            **/*
+            !.github
+            !.git
+            !.unused
+            !**/*.md
+            !**/*.gitattributes
