@@ -7,7 +7,7 @@
         "default": "pillager"
       },
       "textures": {
-        "default": "textures/entity/pillager/pillager",
+        "default": "textures/entity/pillager",
         "captain": "textures/entity/pillager/captain"
       },
       "geometry": {
