@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-      "name": "pack_name",
-      "description": "pack_description",
+      "name": "§lVisual Attributes",
+      "description": "§rA resource pack that changes little details about entities\nBedrock pack by §6Plueres",
       "uuid": "7e460486-8e82-4336-be52-c0c28eafde1a",
       "version": [1,0,0],
       "min_engine_version": [1,16,0]
