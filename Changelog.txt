@@ -1,2 +1,4 @@
+PLANNED
+
 v1.1:
 - Changed the coat of villagers to be connected to the body
