@@ -1,4 +1,6 @@
 PLANNED
 
 v1.1:
+- Added size variations for more mobs
 - Changed the coat of villagers to be connected to the body
+- Armored elytra when wearing leggings
