@@ -1,0 +1,35 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:elytra",
+      "materials": {
+        "default": "elytra"
+      },
+      "textures": {
+        "default": "textures/entity/elytra",
+        "leather": "textures/models/armor",
+        "iron": "textures/models/armor",
+        "chainmail": "textures/models/armor",
+        "gold": "textures/models/armor",
+        "diamond": "textures/models/armor",
+        "netherite": "textures/models/armor"
+      },
+      "geometry": {
+        "default": "geometry.elytra",
+        "armor": "geometry.armor"
+      },
+      "animations": {
+        "default": "animation.elytra.default",
+        "gliding": "animation.elytra.gliding",
+        "sneaking": "animation.elytra.sneaking",
+        "sleeping": "animation.elytra.sleeping",
+        "swimming": "animation.elytra.swimming"
+      },
+      "render_controllers": [
+        "controller.render.elytra",
+        "controller.render.armor"
+      ]
+    }
+  }
+}
