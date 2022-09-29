@@ -1,0 +1,187 @@
+{
+  "format_version": "1.8.0",
+  "geometry.default_head": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0.5, 0 ],
+    "texturewidth": 64,
+    "textureheight": 32,
+    "bones": [
+      {
+        "name": "head",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -4.0, 24.0, -4.0 ],
+            "size": [ 8, 8, 8 ],
+            "uv": [ 0, 0 ]
+          }
+        ]
+      }
+    ]
+  },
+  "geometry.steve_head": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0.5, 0 ],
+    "texturewidth": 64,
+    "textureheight": 32,
+    "bones": [
+      {
+        "name": "head",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -4.0, 24.0, -4.0 ],
+            "size": [ 8, 8, 8 ],
+            "uv": [ 0, 0 ]
+          }
+        ]
+      }
+    ]
+  },
+  "geometry.skeleton_head": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0.5, 0 ],
+    "texturewidth": 64,
+    "textureheight": 32,
+    "bones": [
+      {
+        "name": "head",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -4.0, 24.0, -4.0 ],
+            "size": [ 8, 8, 8 ],
+            "uv": [ 0, 0 ]
+          }
+        ]
+      }
+    ]
+  },
+  "geometry.wither_skeleton_head": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0.5, 0 ],
+    "texturewidth": 64,
+    "textureheight": 32,
+    "bones": [
+      {
+        "name": "head",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -4.0, 24.0, -4.0 ],
+            "size": [ 8, 8, 8 ],
+            "uv": [ 0, 0 ]
+          }
+        ]
+      }
+    ]
+  },
+  "geometry.zombie_head": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0.5, 0 ],
+    "texturewidth": 64,
+    "textureheight": 32,
+    "bones": [
+      {
+        "name": "head",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -4.0, 24.0, -4.0 ],
+            "size": [ 8, 8, 8 ],
+            "uv": [ 0, 0 ]
+          }
+        ]
+      }
+    ]
+  },
+  "geometry.creeper_head": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0.5, 0 ],
+    "texturewidth": 64,
+    "textureheight": 32,
+    "bones": [
+      {
+        "name": "head",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -4.0, 24.0, -4.0 ],
+            "size": [ 8, 8, 8 ],
+            "uv": [ 0, 0 ]
+          }
+        ]
+      }
+    ]
+  },
+  "geometry.dragon_head": {
+    "visible_bounds_width": 1,
+    "visible_bounds_height": 1,
+    "visible_bounds_offset": [ 0, 0.5, 0 ],
+    "texturewidth": 256,
+    "textureheight": 256,
+    "bones": [
+      {
+        "name": "head",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -8.0, 16.0, -10.0 ],
+            "size": [ 16.0, 16.0, 16.0 ],
+            "uv": [ 112, 30 ]
+          },
+          {
+            "mirror": true,
+            "origin": [ -5.0, 32.0, -4.0 ],
+            "size": [ 2.0, 4.0, 6.0 ],
+            "uv": [ 0, 0 ]
+          },
+          {
+            "origin": [ 3.0, 32.0, -4.0 ],
+            "size": [ 2.0, 4.0, 6.0 ],
+            "uv": [ 0, 0 ]
+          }
+        ]
+      },
+      {
+        "name": "snout",
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ -6.0, 20.0, -24.0 ],
+            "size": [ 12.0, 5.0, 16.0 ],
+            "uv": [ 176, 44 ]
+          },
+          {
+            "mirror": true,
+            "origin": [ -5.0, 25.0, -22.0 ],
+            "size": [ 2.0, 2.0, 4.0 ],
+            "uv": [ 112, 0 ]
+          },
+          {
+            "origin": [ 3.0, 25.0, -22.0 ],
+            "size": [ 2.0, 2.0, 4.0 ],
+            "uv": [ 112, 0 ]
+          }
+        ]
+      },
+      {
+        "name": "jaw",
+        "pivot": [ 0.0, 20.0, -8.0 ],
+        "cubes": [
+          {
+            "origin": [ -6.0, 16.0, -24.0 ],
+            "size": [ 12.0, 4.0, 16.0 ],
+            "uv": [ 176, 65 ]
+          }
+        ]
+      }
+    ]
+  }
+}

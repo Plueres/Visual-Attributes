@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.skulls": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.steve",
+            "Texture.skeleton",
+            "Texture.wither",
+            "Texture.zombie",
+            "Texture.creeper"
+          ],
+          "Array.geo": [
+            "Geometry.default",
+            "Geometry.skeleton",
+            "Geometry.wither",
+            "Geometry.zombie",
+            "Geometry.creeper"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [ { "*": "Material.default" } ],
+      "textures": [ "query.is_in_water ? Texture.default : Array.skins[query.variant]" ]
+    }
+  }
+}
