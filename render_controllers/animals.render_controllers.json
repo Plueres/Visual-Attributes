@@ -16,6 +16,18 @@
       ]
     },
     "controller.render.cow": {
+      "arrays": {
+        "textures": {
+          "Array.base": [
+            "Texture.default",
+            "Texture.dairy_cow"
+          ],
+          "Array.in_love": [
+            "Texture.in_love",
+            "Texture.dairy_cow_in_love"
+          ]
+        }
+      },
       "geometry": "Geometry.default",
       "materials": [
         {
@@ -23,7 +35,7 @@
         }
       ],
       "textures": [
-        "(variable.scale_random <= 1.00) && (q.is_in_love) ? Texture.dairy_cow_in_love : ((q.is_in_love) ? Texture.in_love : ((variable.scale_random <= 1.00) ? Texture.dairy_cow : Texture.default))"
+        "q.is_in_love ? Array.in_love[variable.random] : Array.base[variable.random]"
       ]
     },
     "controller.render.pig": {

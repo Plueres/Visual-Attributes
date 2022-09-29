@@ -29,7 +29,7 @@
         }
       ],
       "textures": [
-        "(variable.scale_random <= 0.85) ? Texture.donkey_brown : Texture.donkey",
+        "Texture.donkey",
         "Texture.markings_none",
         "Texture.armor_none"
       ]
