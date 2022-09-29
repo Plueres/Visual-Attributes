@@ -23,7 +23,7 @@
         }
       ],
       "textures": [
-        "query.is_in_love ? Texture.in_love : Texture.default"
+        "(variable.scale_random <= 1.00) && (q.is_in_love) ? Texture.dairy_cow_in_love : ((q.is_in_love) ? Texture.in_love : ((variable.scale_random <= 1.00) ? Texture.dairy_cow : Texture.default))"
       ]
     },
     "controller.render.pig": {
