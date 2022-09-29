@@ -27,7 +27,7 @@
         "scale": "variable.scale_random",
         "initialize": [
           "variable.scale_random = math.random(0.95, 1.05);",
-          "variable.random = math.random(0, 1);"
+          "variable.random = math.random(0, 2);"
         ],
         "animate": [
           "setup",

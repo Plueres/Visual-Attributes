@@ -10,10 +10,14 @@
       },
       "textures": {
         "default": "textures/entity/chicken",
-        "in_love": "textures/entity/chicken/chicken_in_love"
+        "brown": "textures/entity/chicken/brown_chicken",
+        "baby": "textures/entity/chicken/baby_chicken",
+        "in_love": "textures/entity/chicken/chicken_in_love",
+        "brown_in_love": "textures/entity/chicken/brown_chicken_in_love"
       },
       "geometry": {
-        "default": "geometry.chicken.v1.12"
+        "default": "geometry.chicken.v1.12",
+        "baby": "geometry.baby_chicken.v1.12"
       },
       "animations": {
         "move": "animation.chicken.move",
@@ -22,6 +26,9 @@
         "baby_transform": "animation.chicken.baby_transform"
       },
       "scripts": {
+        "initialize": [
+          "variable.random = math.random(0, 2);"
+        ],
         "animate": [
           "general",
           {
@@ -35,11 +42,7 @@
       },
       "render_controllers": [
         "controller.render.chicken"
-      ],
-      "spawn_egg": {
-        "texture": "spawn_egg",
-        "texture_index": 0
-      }
+      ]
     }
   }
 }

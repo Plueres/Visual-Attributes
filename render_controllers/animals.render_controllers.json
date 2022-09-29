@@ -2,7 +2,19 @@
   "format_version": "1.8.0",
   "render_controllers": {
     "controller.render.chicken": {
-      "geometry": "geometry.default",
+      "arrays": {
+        "textures": {
+          "Array.base": [
+            "Texture.default",
+            "Texture.brown"
+          ],
+          "Array.in_love": [
+            "Texture.in_love",
+            "Texture.brown_in_love"
+          ]
+        }
+      },
+      "geometry": "q.is_baby ? geometry.baby : geometry.default",
       "materials": [
         {
           "*": "Material.default"
@@ -12,7 +24,7 @@
         }
       ],
       "textures": [
-        "query.is_in_love ? Texture.in_love : texture.default"
+        "q.is_baby ? Texture.baby : (q.is_in_love ? Array.in_love[variable.random] : Array.base[variable.random])"
       ]
     },
     "controller.render.cow": {
