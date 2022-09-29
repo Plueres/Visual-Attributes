@@ -7,17 +7,18 @@
         "default": "elytra"
       },
       "textures": {
-        "default": "textures/entity/elytra",
-        "leather": "textures/models/armor",
-        "iron": "textures/models/armor",
-        "chainmail": "textures/models/armor",
-        "gold": "textures/models/armor",
-        "diamond": "textures/models/armor",
-        "netherite": "textures/models/armor"
+        "default": "textures/models/armor/elytra",
+        "leather": "textures/models/armor/leather_1",
+        "iron": "textures/models/armor/iron_1",
+        "chainmail": "textures/models/armor/chain_1",
+        "gold": "textures/models/armor/gold_1",
+        "diamond": "textures/models/armor/diamond_1",
+        "netherite": "textures/models/armor/netherite_1",
+        "none": "textures/entity/llama/decor/decor_none"
       },
       "geometry": {
         "default": "geometry.elytra",
-        "armor": "geometry.armor"
+        "armor": "geometry.player.armor"
       },
       "animations": {
         "default": "animation.elytra.default",
@@ -28,7 +29,7 @@
       },
       "render_controllers": [
         "controller.render.elytra",
-        "controller.render.armor"
+        "controller.render.elytra_armor"
       ]
     }
   }

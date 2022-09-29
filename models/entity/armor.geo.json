@@ -1,6 +1,6 @@
 {
 	"format_version": "1.10.0",
-	"geometry.player.armor.base": {
+	"geometry.player.armor": {
 		"texturewidth": 64,
 		"textureheight": 32,
 		"visible_bounds_width": 4,
@@ -16,7 +16,7 @@
 				"parent": "waist",
 				"pivot": [0, 24, 0],
 				"cubes": [
-					{"origin": [-4, 12, -2], "size": [8, 12, 4], "uv": [16, 16], "inflate": 0.6}
+					{"origin": [-4, 12.25, -2.05], "size": [8, 12, 4], "uv": [16, 16], "inflate": 0.76}
 				]
 			},
 			{
@@ -24,7 +24,7 @@
 				"parent": "body",
 				"pivot": [-5, 22, 0],
 				"cubes": [
-					{"origin": [-8, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0.5}
+					{"origin": [-8, 12.05, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0.95}
 				]
 			},
 			{
@@ -38,7 +38,7 @@
 				"pivot": [5, 22, 0],
 				"mirror": true,
 				"cubes": [
-					{"origin": [4, 12.01, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0.5}
+					{"origin": [4, 12.05, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0.95}
 				]
 			}
 		]
