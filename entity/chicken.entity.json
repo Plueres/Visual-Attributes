@@ -17,7 +17,7 @@
       },
       "geometry": {
         "default": "geometry.chicken.v1.12",
-        "baby": "geometry.baby_chicken.v1.12"
+        "baby": "geometry.baby_chicken"
       },
       "animations": {
         "move": "animation.chicken.move",
