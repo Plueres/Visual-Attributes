@@ -1,0 +1,29 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.elytra": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "variable.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default",
+        "Texture.enchanted"
+      ]
+    },
+    "controller.render.elytra_armor": {
+      "geometry": "geometry.armor",
+      "materials": [
+        {
+          "*": "variable.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": [
+        "q.is_item_name_any('slot.armor.legs', 0, 'minecraft:leather_leggings') ? Texture.leather : (q.is_item_name_any('slot.armor.legs', 0, 'minecraft:iron_leggings') ? Texture.iron : (q.is_item_name_any('slot.armor.legs', 0, 'minecraft:chainmail_leggings') ? Texture.chainmail : (q.is_item_name_any('slot.armor.legs', 0, 'minecraft:golden_leggings') ? Texture.gold : (q.is_item_name_any('slot.armor.legs', 0, 'minecraft:diamond_leggings') ? Texture.diamond : (q.is_item_name_any('slot.armor.legs', 0, 'minecraft:netherite_leggings') ? Texture.netherite : Texture.none)))))",
+        "Texture.enchanted"
+      ]
+    }
+  }
+}
