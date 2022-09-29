@@ -7,7 +7,7 @@
         { "*": "Material.default" }
       ],
       "textures": [
-        "(query.moon_phase == 1) ? Texture.werewolf : Texture.default"
+        "query.moon_phase(0) ? Texture.werewolf : Texture.default"
       ]
     },
     "controller.render.zombie_villager_v2_masked": {
