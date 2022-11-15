@@ -6,11 +6,17 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 ![Github](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
 ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>)
 
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Table of contents) -->
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Table of contents") -->
 <details>
-<summary>Table of contents</summary>
+<summary>"Table of contents"</summary>
 
-![button new preview currently includes](https://user-images.githubusercontent.com/71077562/201954097-792ec979-c54b-4f54-b035-ea5ec13ebd36.png)
+- [Why markdown?](#why-markdown)
+- [Markdown basics](#markdown-basics)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+![## button new preview currently includes](https://user-images.githubusercontent.com/71077562/201954097-792ec979-c54b-4f54-b035-ea5ec13ebd36.png)
 
 ![button new preview known issues](https://user-images.githubusercontent.com/71077562/201954116-9ee01a40-189a-41e8-9049-09e6b7e7738b.png)
 
