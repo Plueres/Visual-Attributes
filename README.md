@@ -44,12 +44,12 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 
 ![button new preview other packs](https://user-images.githubusercontent.com/71077562/201954138-edddf8d7-04c1-44ab-b247-d235808d28e4.png)
 
+[![mceicon](https://user-images.githubusercontent.com/71077562/201954218-0e73e84d-933b-4edb-8bf2-d4b68c8a7d48.png)](https://www.planetminecraft.com/texture-pack/minecraft-earth-reborn-bedrock-edition/)
+[![aeicon](https://user-images.githubusercontent.com/71077562/201954228-29e69f13-c0e6-4dd5-a860-de57034457fa.png)](https://www.planetminecraft.com/texture-pack/armored-elytra-bedrock-edition/)
+[![archicon](https://user-images.githubusercontent.com/71077562/201954215-fefcf063-a7e5-4494-8786-45d471eb9371.png)](https://www.planetminecraft.com/texture-pack/consistent-archery-bedrock-edition/)
+[![emticon](https://user-images.githubusercontent.com/71077562/201954225-ae723d66-73fc-4197-93f7-1186be9454a5.png)](https://www.planetminecraft.com/texture-pack/mossy-trident-bedrock-edition/)
+[![mticon](https://user-images.githubusercontent.com/71077562/201954225-ae723d66-73fc-4197-93f7-1186be9454a5.png)](https://www.planetminecraft.com/texture-pack/mossy-trident-bedrock-edition/)
 [![dripicon](https://user-images.githubusercontent.com/71077562/201954210-4c4f4262-ee81-415c-9905-532b60bb98de.png)](https://www.planetminecraft.com/texture-pack/blocky-dripstone-bedrock-edition/)
 [![berryicon](https://user-images.githubusercontent.com/71077562/201954212-5af62aca-d910-4bce-b36b-c14f535fe679.png)](https://www.planetminecraft.com/texture-pack/bushy-sweet-berry-bush-bedrock-edition/)
-[![archicon](https://user-images.githubusercontent.com/71077562/201954215-fefcf063-a7e5-4494-8786-45d471eb9371.png)](https://www.planetminecraft.com/texture-pack/consistent-archery-bedrock-edition/)
-[![mceicon](https://user-images.githubusercontent.com/71077562/201954218-0e73e84d-933b-4edb-8bf2-d4b68c8a7d48.png)](https://www.planetminecraft.com/texture-pack/minecraft-earth-reborn-bedrock-edition/)
 [![wcicon](https://user-images.githubusercontent.com/71077562/201954222-25383a16-5276-4353-bc1a-caac7200341d.png)](https://www.planetminecraft.com/texture-pack/visible-held-waxed-copper-bedrock-edition/)
-[![mticon](https://user-images.githubusercontent.com/71077562/201954225-ae723d66-73fc-4197-93f7-1186be9454a5.png)](https://www.planetminecraft.com/texture-pack/mossy-trident-bedrock-edition/)
-[![emticon](https://user-images.githubusercontent.com/71077562/201954225-ae723d66-73fc-4197-93f7-1186be9454a5.png)](https://www.planetminecraft.com/texture-pack/mossy-trident-bedrock-edition/)
-[![aeicon](https://user-images.githubusercontent.com/71077562/201954228-29e69f13-c0e6-4dd5-a860-de57034457fa.png)](https://www.planetminecraft.com/texture-pack/armored-elytra-bedrock-edition/)
 [![mudicon](https://user-images.githubusercontent.com/71077562/201954232-89ce65b2-b7e2-427c-b5a6-0d76f9e21909.png)](https://www.planetminecraft.com/texture-pack/muddier-mud-bedrock-edition/)
