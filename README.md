@@ -8,6 +8,7 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Table of contents") -->
 <details>
+<summary>Table of contents</summary>
 
 ![button new preview currently includes](https://user-images.githubusercontent.com/71077562/201954097-792ec979-c54b-4f54-b035-ea5ec13ebd36.png)
 
