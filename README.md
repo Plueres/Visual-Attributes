@@ -18,6 +18,25 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 
 ![## button new preview currently includes](https://user-images.githubusercontent.com/71077562/201954097-792ec979-c54b-4f54-b035-ea5ec13ebd36.png)
 
+- A hint to the oneblockatatime's snapshot, featuring a particular dog texture when renamed to any of the following: 'MARS', 'Mars', 'mars' - https://twitter.com/CagilMartin1/status/1561362367237484545
+- A texture for sleeping villagers
+- A texture for when animals are being fed (Currently includes the cow, pig, sheep and chicken)
+- A goat ramming indicator (I couldn't get a picture of this because it's so unpredictable)
+- A texture for screaming Goats
+- A special texture for the Pillager captain
+- Added texture variations to Allays
+- Added texture variations to donkeys depending on size
+- Added size variations for donkeys (very small difference)
+- Added an indicator (the horse bit) for when a Horse or Donkey is tamed
+- Added a texture for when an enchanted trident (only when held) interacts with water (that includes rain and water)
+- Added 2 extra textures for zombies. (when they're shivering inside powdered snow and when drowning)
+- Axolotls close their eyes when playing dead
+- Changed the texture of allays to have an emotionless face until given an item
+- Changed the particle interactions and texture of splash potions and lingering potions to seem like they have a liquid in them (lingering potions still have the general potion texture, the changed texture only shows shortly when thrown)
+- Changed the drowned model to match Java Edition
+- Changed the scale of vexes slightly, so they seem like they're easier to hit
+- Changed the texture of the vex to be transparent because they can go through walls
+
 ![button new preview known issues](https://user-images.githubusercontent.com/71077562/201954116-9ee01a40-189a-41e8-9049-09e6b7e7738b.png)
 
 ![button new preview images](https://user-images.githubusercontent.com/71077562/201954131-443f6a6d-e6b6-41e1-b5e7-83cc4f3ebba0.png)
