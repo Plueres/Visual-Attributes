@@ -6,7 +6,7 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 ![Github](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
 ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>)
 
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Table of contents") -->
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Table of contents) -->
 <details>
 <summary>Table of contents</summary>
 
