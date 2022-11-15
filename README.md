@@ -6,6 +6,8 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 ![Github](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
 ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>)
 
+Open for feedback and suggestions 
+
 ![button new preview currently includes](https://user-images.githubusercontent.com/71077562/201954097-792ec979-c54b-4f54-b035-ea5ec13ebd36.png)
 
 - A hint to the oneblockatatime's snapshot, featuring a particular dog texture when renamed to any of the following: 'MARS', 'Mars', 'mars' - <blockquote class="twitter-tweet" data-lang="en" data-dnt="true"><p lang="en" dir="ltr">Fun fact: Naming a dog &quot;mars&quot; and taming it will give the wolf a new texture in April fool&#39;s snapshot 22w13OneBlockAtATime <a href="https://t.co/Jxb4CrRTd3">pic.twitter.com/Jxb4CrRTd3</a></p>&mdash; Jollytater Man of MC (@CagilMartin) <a href="https://twitter.com/CagilMartin/status/1561362367237484545?ref_src=twsrc%5Etfw">August 21, 2022</a></blockquote>
@@ -29,6 +31,8 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 
 ![button new preview known issues](https://user-images.githubusercontent.com/71077562/201954116-9ee01a40-189a-41e8-9049-09e6b7e7738b.png)
 
+no known issues as of right now :)
+
 ![button new preview images](https://user-images.githubusercontent.com/71077562/201954131-443f6a6d-e6b6-41e1-b5e7-83cc4f3ebba0.png)
 
 ![image](https://user-images.githubusercontent.com/71077562/201958339-df694fe2-1585-48e6-9805-6a874fd8371a.png)
@@ -41,6 +45,19 @@ A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little de
 ![image](https://user-images.githubusercontent.com/71077562/201958588-1b384b4a-ae26-4eb9-8f15-275452a459be.png)
 ![image](https://user-images.githubusercontent.com/71077562/201958598-c242f27f-7495-4557-9430-a6521ba34589.png)
 ![gif](https://media.giphy.com/media/cf5tQVM3IrVopoipKk/giphy.gif)
+
+![button new preview terms of use](https://user-images.githubusercontent.com/71077562/201962149-a5d0f8a4-c859-441e-ad6c-0f13c7489f4b.png)
+
+You are allowed to:
+- Edit the files for personal use
+- Upload showcase videos or threads to YouTube or forums sites with credit
+
+You are NOT allowed to:
+- Redistribute this pack and/or credit this pack as your own
+
+![button new preview credits](https://user-images.githubusercontent.com/71077562/201962817-4e1b9550-4b7b-435b-996a-f35eb2d6ad6e.png)
+Credits to:
+- no one yet...
 
 ![button new preview other packs](https://user-images.githubusercontent.com/71077562/201954138-edddf8d7-04c1-44ab-b247-d235808d28e4.png)
 
