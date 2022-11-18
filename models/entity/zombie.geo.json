@@ -36,6 +36,16 @@
 				]
 			},
 			{
+				"name": "hairs",
+				"parent": "head",
+				"pivot": [0, 33, 0],
+				"rotation": [10, 0, 0],
+				"cubes": [
+					{"origin": [-4, 32, 0], "size": [8, 0, 4], "uv": [20, 0]},
+					{"origin": [-4, 32.7, -4], "size": [8, 0, 4], "uv": [20, 0]}
+				]
+			},
+			{
 				"name": "hat",
 				"parent": "head",
 				"pivot": [0, 24, 0],
