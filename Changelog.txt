@@ -1,6 +1,10 @@
-PLANNED
+Everything in this list can change/be removed in the future
+Nothing in the list for future versions is final
 
 v1.1:
 - Added size variations for more mobs
-- Changed the coat of villagers to be connected to the body
 - Armored elytra when wearing leggings
+- Added Unique Dusts by carriecare
+
+v1.2:
+- Changed the coat of villagers to be connected to the body
