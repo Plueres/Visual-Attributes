@@ -8,6 +8,8 @@ Open for feedback and suggestions
 ![Github](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
 ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>)
 
+Check the ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>) tab to test some beta builds!
+
 ![button new preview currently includes](https://user-images.githubusercontent.com/71077562/201954097-792ec979-c54b-4f54-b035-ea5ec13ebd36.png)
 
 - A hint to the oneblockatatime's snapshot, featuring a particular dog texture when renamed to any of the following: 'MARS', 'Mars', 'mars' - <blockquote class="twitter-tweet" data-lang="en" data-dnt="true"><p lang="en" dir="ltr">Fun fact: Naming a dog &quot;mars&quot; and taming it will give the wolf a new texture in April fool&#39;s snapshot 22w13OneBlockAtATime <a href="https://t.co/Jxb4CrRTd3">pic.twitter.com/Jxb4CrRTd3</a></p>&mdash; Jollytater Man of MC (@CagilMartin) <a href="https://twitter.com/CagilMartin/status/1561362367237484545?ref_src=twsrc%5Etfw">August 21, 2022</a></blockquote>
