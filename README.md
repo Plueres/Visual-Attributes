@@ -1,5 +1,5 @@
 # Visual-Attributes
-A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little details or visual attributes of entities. Such as closing the eyes of villagers when they sleep, indicators when a horse is tamed or indicators when goats start to ram.
+A Resource Pack for Minecraft Bedrock Edition that aims to enhance the little details or visual attributes of (for now) entities (will include items and blocks in the future). Such as closing the eyes of villagers when they sleep, indicators when a horse is tamed or indicators when goats start to ram.
 
 Open for feedback and suggestions 
 
