@@ -2,14 +2,36 @@
   "format_version": "1.8.0",
   "render_controllers": {
     "controller.render.zombie": {
-      "geometry": "Geometry.default",
+      "arrays": {
+        "geometries": {
+          "Array.geo": [
+						"Geometry.default",
+						"Geometry.default",
+						"Geometry.default",
+						"Geometry.default",
+						"Geometry.default",
+						"Geometry.werewolf"
+					]
+        },
+				"textures": {
+					"Array.text": [
+						"Texture.default",
+						"Texture.default",
+						"Texture.default",
+						"Texture.default",
+						"Texture.default",
+						"Texture.werewolf"
+					]
+				}
+			},
+      "geometry": "query.moon_phase == 0 ? Array.geo[v.random] : Geometry.default",
       "materials": [
         {
           "*": "Material.default"
         }
       ],
       "textures": [
-        "(query.is_in_water && query.is_shaking) ? Texture.drowned : (query.is_shaking ? Texture.frozen : Texture.default)"
+        "query.moon_phase == 0 ? Array.text[v.random] : ((query.is_in_water && query.is_shaking) ? Texture.drowned : (query.is_shaking ? Texture.frozen : Texture.default))"
       ]
     }
   }
