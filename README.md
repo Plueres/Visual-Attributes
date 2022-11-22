@@ -8,7 +8,7 @@ Open for feedback and suggestions
 ![Github](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
 ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>)
 
-##Check the ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>) tab to test some beta builds!
+## Check the ![Github Actions](<https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>) tab to test some beta builds!
 
 ![button new preview currently includes](https://user-images.githubusercontent.com/71077562/201954097-792ec979-c54b-4f54-b035-ea5ec13ebd36.png)
 
