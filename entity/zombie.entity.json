@@ -5,13 +5,15 @@
       "identifier": "minecraft:zombie",
       "min_engine_version": "1.8.0",
       "materials": {
-        "default": "zombie"
+        "default": "zombie",
+        "werewolf": "entity_emissive_alpha"
       },
       "textures": {
         "default": "textures/entity/zombie/zombie",
         "drowned": "textures/entity/zombie/drowning",
         "frozen": "textures/entity/zombie/frozen",
-        "werewolf": "textures/entity/zombie/werewolf"
+        "werewolf": "textures/entity/zombie/werewolf",
+        "none": "textures/entity/cape_invisible"
       },
       "geometry": {
         "default": "geometry.zombie.v1.8",
@@ -46,19 +48,19 @@
         "swimming": "animation.zombie.swimming",
         "humanoid_baby_big_head": "controller.animation.humanoid.baby_big_head",
         "look_at_target": "controller.animation.humanoid.look_at_target",
-        "move": "controller.animation.humanoid.move",
+        "controller_move": "controller.animation.humanoid.move",
         "riding": "controller.animation.humanoid.riding",
-        "holding": "controller.animation.humanoid.holding",
-        "brandish_spear": "controller.animation.humanoid.brandish_spear",
-        "charging": "controller.animation.humanoid.charging",
+        "controller_holding": "controller.animation.humanoid.holding",
+        "controller_brandish_spear": "controller.animation.humanoid.brandish_spear",
+        "controller_charging": "controller.animation.humanoid.charging",
         "attack": "controller.animation.humanoid.attack",
-        "sneaking": "controller.animation.humanoid.sneaking",
-        "bob": "controller.animation.humanoid.bob",
-        "damage_nearby_mobs": "controller.animation.humanoid.damage_nearby_mobs",
-        "bow_and_arrow": "controller.animation.humanoid.bow_and_arrow",
-        "use_item_progress": "controller.animation.humanoid.use_item_progress",
-        "zombie_attack_bare_hand": "controller.animation.zombie.attack_bare_hand",
-        "swimming": "controller.animation.zombie.swimming"
+        "controller_sneaking": "controller.animation.humanoid.sneaking",
+        "controller_bob": "controller.animation.humanoid.bob",
+        "controller_damage_nearby_mobs": "controller.animation.humanoid.damage_nearby_mobs",
+        "controller_bow_and_arrow": "controller.animation.humanoid.bow_and_arrow",
+        "controller_use_item_progress": "controller.animation.humanoid.use_item_progress",
+        "controller_zombie_attack_bare_hand": "controller.animation.zombie.attack_bare_hand",
+        "controller_swimming": "controller.animation.zombie.swimming"
       },
       "render_controllers": [
         "controller.render.zombie"
