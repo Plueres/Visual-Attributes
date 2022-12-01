@@ -63,7 +63,8 @@
         "controller_swimming": "controller.animation.zombie.swimming"
       },
       "render_controllers": [
-        "controller.render.zombie"
+        "controller.render.zombie",
+        "controller.render.werewolf_hairs"
       ],
       "enable_attachables": true
     }
