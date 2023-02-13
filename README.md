@@ -15,7 +15,7 @@ Open for feedback and suggestions
 - A hint to the oneblockatatime's snapshot, featuring a particular dog texture when renamed to any of the following: 'MARS', 'Mars', 'mars' - <blockquote class="twitter-tweet" data-lang="en" data-dnt="true"><p lang="en" dir="ltr">Fun fact: Naming a dog &quot;mars&quot; and taming it will give the wolf a new texture in April fool&#39;s snapshot 22w13OneBlockAtATime <a href="https://t.co/Jxb4CrRTd3">pic.twitter.com/Jxb4CrRTd3</a></p>&mdash; Jollytater Man of MC (@CagilMartin) <a href="https://twitter.com/CagilMartin/status/1561362367237484545?ref_src=twsrc%5Etfw">August 21, 2022</a></blockquote>
 - A texture for sleeping villagers
 - A texture for when animals are being fed (Currently includes the cow, pig, sheep and chicken)
-- A goat ramming indicator (I couldn't get a picture of this because it's so unpredictable)
+- A goat ramming indicator gif by <a href="https://www.planetminecraft.com/member/h3artl3sspanda/">H3ARTL3SSpanda</a>
 - A texture for screaming Goats
 - A special texture for the Pillager captain
 - Added texture variations to Allays
@@ -47,6 +47,7 @@ no known issues as of right now :)
 ![image](https://user-images.githubusercontent.com/71077562/201958588-1b384b4a-ae26-4eb9-8f15-275452a459be.png)
 ![image](https://user-images.githubusercontent.com/71077562/201958598-c242f27f-7495-4557-9430-a6521ba34589.png)
 ![gif](https://media.giphy.com/media/cf5tQVM3IrVopoipKk/giphy.gif)
+![gif](https://i.imgur.com/b4Znstd.gif)
 
 ![button new preview terms of use](https://user-images.githubusercontent.com/71077562/201962149-a5d0f8a4-c859-441e-ad6c-0f13c7489f4b.png)
 
