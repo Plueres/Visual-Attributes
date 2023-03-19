@@ -8,7 +8,8 @@
         "default": "vindicator"
       },
       "textures": {
-        "default": "textures/entity/vindicator",
+        "default": "textures/entity/vindicator/johnny",
+        "johnny": "textures/entity/vindicator/vindicator",
         "captain": "textures/entity/vindicator/captain"
       },
       "geometry": {

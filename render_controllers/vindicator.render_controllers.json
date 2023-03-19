@@ -10,7 +10,7 @@
         { "arms": "!(query.is_angry || query.is_celebrating)" }
       ],
       "materials": [ { "*": "Material.default" } ],
-      "textures": [ "Texture.default" ]
+      "textures": [ "query.is_name_any('Johnny', 'johnny', 'JOHNNY') ? Texture.johnny : Texture.default" ]
     }
   }
 }
