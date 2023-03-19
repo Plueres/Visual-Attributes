@@ -14,7 +14,7 @@
           ]
         }
       },
-      "geometry": "query.is_baby ? geometry.baby : geometry.default",
+      "geometry": "geometry.default",
       "materials": [
         {
           "*": "Material.default"

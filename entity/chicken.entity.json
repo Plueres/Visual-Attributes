@@ -16,8 +16,7 @@
         "brown_in_love": "textures/entity/chicken/brown_chicken_in_love"
       },
       "geometry": {
-        "default": "geometry.chicken.v1.12",
-        "baby": "geometry.baby_chicken"
+        "default": "geometry.chicken.v1.12"
       },
       "animations": {
         "move": "animation.chicken.move",
